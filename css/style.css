@@ -63,14 +63,14 @@ table {
 }
 th,td {
   padding: .75em .5em;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid #000;
 }
 th {
   text-align: right;
-  border-right: 2px solid #ddd;
+  border-right: 2px solid #000;
 }
 tr:first-child th, tr:first-child td {
-  border-top: 1px solid #ddd;
+  border-top: 1px solid #000;
 }
 .pull-right {
   float: right;
